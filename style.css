@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Lobster', cursive;
+    font-size:xx-large;
+    background-color:whitesmoke;
+}
+
+.header_div
+{
+    background-color: brown;
+}
+
+p
+{
+    font-weight: bolder;
+    background-color:aqua;
+    letter-spacing: 5px;
+}
+
+.btn-lg
+{
+   font-family: 'Courier New', Courier, monospace;
+   font-weight:bolder;
+   font-size:40px;
+   color:black;
+   margin-top: 20px;
+   letter-spacing: 5px;
+
+}
+
+.copy_right_footer
+{
+  background-color:brown; 
+  color:beige;
+  font-size:xx-large; 
+  line-height:100px;
+  position:fixed;
+  bottom:0;
+  width:100%;
+}
